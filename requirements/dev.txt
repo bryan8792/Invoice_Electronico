@@ -1,0 +1,9 @@
+-r base.txt
+
+# Herramientas de desarrollo
+ipython
+pytest
+pytest-django
+coverage
+black
+flake8
